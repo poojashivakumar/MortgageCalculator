@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora De Hipoteca</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_button">actividad boton</string>
+
+    <string name = "amountborrowed">Cantidad Prestada</string>
+    <string name = "interestrate">Tasa de Interes</string>
+    <string name = "loanterm">Plazo Del Prestamo</string>
+    <string name = "extras">Extras</string>
+    <string name = "taxesandinsurance">Impuestos y Seguro</string>
+    <string name = "calculate">Calcular </string>
+    <string name = "message"><b>su pago mensual es</b></string>
+</resources>

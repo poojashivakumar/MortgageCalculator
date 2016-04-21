@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculateur Dhypotheque</string>
+    <string name="action_settings">Parametres</string>
+    <string name="title_activity_button">Activite De Bouton</string>
+
+    <string name = "amountborrowed">Montant Emprunte</string>
+    <string name = "interestrate">Taux Dinteret</string>
+    <string name = "loanterm">Duree Du Pret</string>
+    <string name = "extras">Extras</string>
+    <string name = "taxes">Impots</string>
+    <string name = "insurance">Assurance</string>
+    <string name = "calculate">Calculer </string>
+
+
+</resources>

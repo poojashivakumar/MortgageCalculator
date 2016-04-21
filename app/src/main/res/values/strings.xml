@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_button">ButtonActivity</string>
+
+    <string name = "amountborrowed"><b>Amount Borrowed    </b></string>
+    <string name = "interestrate"><b>Interest Rate</b></string>
+    <string name = "loanterm"><b>Loan Term(Yrs)</b></string>
+    <string name = "extras"><b>Extras</b></string>
+    <string name = "taxesandinsurance"><b>Tax and Insurance</b></string>
+    <string name = "insurance">Insurance</string>
+    <string name = "calculate"><b>Calculate </b></string>
+    <string name = "message"><b>Your monthly payment is</b></string>
+</resources>
